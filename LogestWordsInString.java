@@ -1,5 +1,4 @@
 // return the longest word or words from a given sentence
-// to interviewer, didn't expect that "C" is not an option for the languages, so took extra time to use Java
 
 import java.util.ArrayList; 
 
